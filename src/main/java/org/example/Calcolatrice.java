@@ -4,11 +4,12 @@ public class Calcolatrice {
     public Calcolatrice(){
     }
 
-    public static float add(int a, int b){
+    public static float add(float a, float b){
         return a+b;
     }
 
-    public static float minus(int a, int b){
+    public static float minus(float a, float b){
         return a-b;
     }
+
 }
